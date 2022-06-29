@@ -9,3 +9,5 @@ BA Course for Distributed Systems from the University of Applied Science Mittwei
 [Eclipse](https://www.eclipse.org)
 
 [Maven](https://maven.apache.org/)
+
+[BitcoinJ](https://bitcoinj.org/)
