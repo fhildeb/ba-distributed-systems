@@ -24,7 +24,7 @@ public class BTC_TestNet_SendCoins {
 		//Testnet Parameter laden
 		NetworkParameters params = TestNet3Params.get();
 				
-		String path = "/Users/fhildebrandt/Documents/Eclipse/CreatedFiles";
+		String path = "[PATH_FOR_WALLET_GENERATION]";
 		
 		//Empfängeradresse aus Faucet
 		String forwardingAdressString = "2N1dv1VAi4A1VNwj52u5MKiKLG8LwsmrF7K";
