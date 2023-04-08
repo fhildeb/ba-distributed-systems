@@ -34,7 +34,7 @@ A significant portion of the course was dedicated to the study of altcoins and t
 2. WIP
    - RSA Signature Verification
    - Cryptographic Commit-Reveal Scheme
-   - WIP
+   - RSA Encryption-Decryption
 3.
 4.
 5.

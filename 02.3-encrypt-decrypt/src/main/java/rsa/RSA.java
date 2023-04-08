@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 import javax.crypto.Cipher;
 
-public class Rsa {
+public class RSA {
     
     public static void main(String [] args) throws Exception {
         // generate public and private keys
