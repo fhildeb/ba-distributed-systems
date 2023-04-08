@@ -33,7 +33,7 @@ A significant portion of the course was dedicated to the study of altcoins and t
    - Bitcoin Address Generation
 2. WIP
    - RSA Signature Verification
-   - WIP
+   - Cryptographic Commit-Reveal Scheme
    - WIP
 3.
 4.
