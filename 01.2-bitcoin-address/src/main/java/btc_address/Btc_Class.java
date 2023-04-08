@@ -7,7 +7,7 @@ import org.bitcoinj.core.Sha256Hash;
 import org.bitcoinj.core.Utils;
 import org.bitcoinj.params.MainNetParams;
 
-public class Btc_Class {
+public class BTC_Class {
 
 	private final static NetworkParameters np = MainNetParams.get();
 	//private final static Context c = new Context(np);
