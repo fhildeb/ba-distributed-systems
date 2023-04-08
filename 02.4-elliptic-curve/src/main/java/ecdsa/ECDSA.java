@@ -14,7 +14,7 @@ import org.bouncycastle.jce.ECNamedCurveTable;
 import org.bouncycastle.jce.provider.BouncyCastleProvider;
 import org.bouncycastle.jce.spec.ECParameterSpec;
 
-public class Ecdsa {
+public class ECDSA {
 
 	public static void main(String[] args) throws Exception{
 		Security.addProvider(new BouncyCastleProvider());

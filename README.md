@@ -31,10 +31,11 @@ A significant portion of the course was dedicated to the study of altcoins and t
 1. Data Algorithms
    - Hash and Brute Attacks
    - Bitcoin Address Generation
-2. WIP
+2. Secure Cryptographic Techniques
    - RSA Signature Verification
    - Cryptographic Commit-Reveal Scheme
    - RSA Encryption-Decryption
+   - ECDSA Signature Implementation
 3.
 4.
 5.
