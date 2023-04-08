@@ -12,7 +12,7 @@ This Java program explores the birthday paradox concept to illustrate the pre-im
 
 ### Terminal Output
 
-```bash
+```
 n: 0
 n: 1
 n: 2
@@ -28,7 +28,7 @@ The main difference between this program and the previous Birthday program lies 
 
 ### Terminal Output
 
-```bash
+```
 n: 0
 erg: 1.0027397260273974
 n: 1
@@ -57,7 +57,7 @@ The program assumes a processor speed of 1.18 million operations per microsecond
 
 ### Terminal Output
 
-```bash
+```
 Der Prozessor würde: 1.2732534023551096E16 Jahre benötigen
 ```
 
@@ -73,7 +73,7 @@ The resulting binary string is further split into segments of length 9 or less. 
 
 ### Terminal Output
 
-```bash
+```
 Nun wird eine Bytekette erstellt...
 
 Charakter an Stelle [0]: H;

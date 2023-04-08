@@ -15,7 +15,7 @@ import org.bitcoinj.params.TestNet3Params;
 import org.bitcoinj.wallet.Wallet;
 import org.bitcoinj.wallet.listeners.WalletCoinsSentEventListener;
 
-public class BTC_TestNet_SendCoins {
+public class BTCTestNetSendCoins {
 
 	public static void main(String[] args) {
 		

@@ -26,7 +26,7 @@ A significant portion of the course was dedicated to the study of altcoins and t
 
 ## Repository Contents
 
-> Insight were transformed into 12 practical projects, from which included code project. Be aware that some subdirectories are standalone Maven projects.
+> Insight were transformed into 12 practical projects, from which some included direct code projects. Be aware that some subdirectories are standalone Maven projects.
 
 1. Data Algorithms
    - Hash and Brute Attacks
@@ -36,11 +36,10 @@ A significant portion of the course was dedicated to the study of altcoins and t
    - Cryptographic Commit-Reveal Scheme
    - RSA Encryption-Decryption
    - ECDSA Signature Implementation
-3.
+3. External Wallet Setup Preparation
 4.
 5.
 6.
-7.
 
 ## Tools
 

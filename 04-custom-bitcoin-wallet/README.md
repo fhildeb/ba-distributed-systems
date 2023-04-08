@@ -1,6 +1,22 @@
-# BTC_TestNet_ReceiveCoins (Main, Maven)
+# Bitcoin Wallet
 
-## Terminal Output
+A Bitcoin wallet is a software application or hardware device that manages private and public keys, enabling users to securely store, send, and receive Bitcoin.
+
+In a technical sense, the wallet doesn't store the actual coins; instead, it tracks ownership by recording transactions on the decentralized blockchain.
+
+Wallets are responsible for generating private keys, deriving public keys and addresses, constructing and signing transactions, and broadcasting them to the network. They also monitor the blockchain to update the user's balance and transaction history, ensuring that only the owner with the correct private key can access the funds.
+
+## Custom Implementation
+
+This project is a Bitcoin testnet application built using the BitcoinJ library, and it demonstrates the functionality of sending and receiving Bitcoin transactions on the TestNet3 network.
+
+The WalletAppKit is used for managing the wallet and interacting with the TestNet3 network, while event listeners are implemented to provide real-time updates on transaction confirmations and balance changes.
+
+## BTCTestNetReceiveCoins (Main, Maven)
+
+Listens for incoming transactions and displays the received amount.
+
+### Terminal Output
 
 ```
 Sende Geld an: mu7wJpNEoUspu8GdE8ngPSF8t9fLzbm4dU
@@ -17,9 +33,11 @@ Erhaltene Transaktion für 0.0001 BTC :   b281d0ea1d95aa94052ad8c6daf40eb413d778
 
 ```
 
-# BTC_TestNet_SendCoins (Main, Maven)
+## BTCTestNetSendCoins (Main, Maven)
 
-## Terminal Output
+Sends a specified amount of Bitcoin to a designated address.
+
+### Terminal Output
 
 ```
 Wallet: Wallet containing 0.0001 BTC (spendable: 0.0001 BTC) in:

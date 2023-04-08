@@ -10,7 +10,7 @@ import org.bitcoinj.params.TestNet3Params;
 import org.bitcoinj.wallet.Wallet;
 import org.bitcoinj.wallet.listeners.WalletCoinsReceivedEventListener;
 
-public class BTC_TestNet_ReceiveCoins {
+public class BTCTestNetReceiveCoins {
 	
 	private static WalletAppKit kit;
 	private static boolean gotCoins = false;
