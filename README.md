@@ -39,10 +39,12 @@ A significant portion of the course was dedicated to the study of altcoins and t
 3. External Wallet Setup Preparation
 4. Custom Bitcoin Wallet Implementation
 5. Bitcoin Blockchain Parser
-6.
+6. Bloom Filter Implementation and Tests
+7. Merkle Tree Implementation and Tests
 
 ## Tools
 
-- [Eclipse](https://www.eclipse.org)
-- [Maven](https://maven.apache.org/)
-- [BitcoinJ](https://bitcoinj.org/)
+- [Eclipse IDE](https://www.eclipse.org)
+- [Maven Project Scope](https://maven.apache.org/)
+- [BitcoinJ Library](https://bitcoinj.org/)
+- [Google Guava Library](https://github.com/google/guava)
