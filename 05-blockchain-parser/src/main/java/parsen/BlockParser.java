@@ -9,7 +9,7 @@ import org.bitcoinj.core.TransactionInput;
 import org.bitcoinj.params.MainNetParams;
 import org.bitcoinj.utils.BlockFileLoader;
 
-public class Blockparser {
+public class BlockParser {
 
 	public static void main(String[] args) 
 	{

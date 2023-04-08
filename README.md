@@ -37,8 +37,8 @@ A significant portion of the course was dedicated to the study of altcoins and t
    - RSA Encryption-Decryption
    - ECDSA Signature Implementation
 3. External Wallet Setup Preparation
-4.
-5.
+4. Custom Bitcoin Wallet Implementation
+5. Bitcoin Blockchain Parser
 6.
 
 ## Tools
