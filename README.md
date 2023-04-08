@@ -4,8 +4,6 @@ BA Course for Distributed Systems from the University of Applied Science Mittwei
 
 > **_NOTE:_** The commentary and filenames might appear in German.
 
-> **_NOTE:_** Some subdirectories standalone Maven projects.
-
 ## Course Contents
 
 The distributed systems course delved into the fascinating world of cryptocurrencies and blockchain technology. It provided an in-depth exploration of Bitcoin's decentralization and mechanics, illustrating how the digital currency could be stored and used. The course unraveled the complex process of Bitcoin mining, elucidating the role of miners in validating transactions and maintaining the network's security.
@@ -28,11 +26,11 @@ A significant portion of the course was dedicated to the study of altcoins and t
 
 ## Repository Contents
 
-> Insight were transformed into 12 practical projects, from which included code project
+> Insight were transformed into 12 practical projects, from which included code project. Be aware that some subdirectories are standalone Maven projects.
 
 1. WIP
    - Hash and Brute Atacks
-   -
+   - Bitcoin Address Generation
 2. WIP
    - WIP
    - WIP
