@@ -2,7 +2,7 @@ package hash;
 
 import java.util.ArrayList;
 
-public class Hashfunction_Test {
+public class HashfunctionTest {
 	
 	public static void main(String[] args) {
 		String binaryConcat;

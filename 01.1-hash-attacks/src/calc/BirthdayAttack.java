@@ -1,6 +1,6 @@
 package calc;
 
-public class Birthday_Attack {
+public class BirthdayAttack {
 
 	public static void main(String args[]) {
 		

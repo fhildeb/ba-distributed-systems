@@ -6,7 +6,7 @@ The address is derived from the user's public key using a series of cryptographi
 
 Bitcoin addresses are designed to be single-use, promoting anonymity and enhancing security. Users can generate multiple addresses for different transactions, making it difficult to link transactions to a single individual. The decentralized and pseudonymous nature of Bitcoin addresses has made them an integral part of the cryptocurrency ecosystem.
 
-## BTC_Class (Main, Maven)
+## BTCClass (Main, Maven)
 
 The program demonstrates Bitcoin address generation from a given public key. It features two methods which generate the address using distinct approaches.
 

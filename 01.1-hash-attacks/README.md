@@ -20,7 +20,7 @@ n: 3
 n: 4
 ```
 
-## Birthday_Attack (Main)
+## BirthdayAttack (Main)
 
 This Java program, is an alternative implementation of the birthday paradox concept to illustrate pre-image attacks on hash functions. The program calculates the probability of someone having a specific birthday within a group of people by directly computing the counter probability, rather than calculating the complementary probability first as in the previous Birthday program. By setting a probability threshold (99%), the program iterates through different group sizes until the desired probability is reached.
 
@@ -65,7 +65,7 @@ Der Prozessor würde: 1.2732534023551096E16 Jahre benötigen
 
 This is a custom Hash Function Implementation
 
-## Hashfunction_Test (Main)
+## HashfunctionTest (Main)
 
 The program demonstrates a custom hash function using ASCII character representation and binary conversions. The program accepts a string input and converts each character into its ASCII representation, followed by its binary equivalent. These binary strings are concatenated to form a single binary string.
 
