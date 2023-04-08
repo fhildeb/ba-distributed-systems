@@ -1,6 +1,6 @@
-package aufgaben;
+package calc;
 
-public class wahrscheinlichkeit {
+public class Probability {
 
 	public static void main(String args[]) {
 		
@@ -17,9 +17,6 @@ public class wahrscheinlichkeit {
 		tage = (stunden / 24);
 		jahre = (tage / 365);
 		
-		System.out.print("Der Prozessor würde: "+jahre+ " Jahre benötigen");
-		
-		
-				
+		System.out.print("Der Prozessor würde: "+jahre+ " Jahre benötigen");			
 	}
 }

@@ -1,6 +1,6 @@
-package aufgaben;
+package calc;
 
-public class geburtstagsangriff {
+public class Birthday_Attack {
 
 	public static void main(String args[]) {
 		

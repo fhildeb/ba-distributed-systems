@@ -1,6 +1,6 @@
-package aufgaben;
+package calc;
 
-public class geburtstage {
+public class Birthday {
 
 	public static void main(String args[]) {
 		double var1 = 364, var2 = 365, var3 = var1/var2;
