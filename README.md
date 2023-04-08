@@ -28,11 +28,11 @@ A significant portion of the course was dedicated to the study of altcoins and t
 
 > Insight were transformed into 12 practical projects, from which included code project. Be aware that some subdirectories are standalone Maven projects.
 
-1. WIP
-   - Hash and Brute Atacks
+1. Data Algorithms
+   - Hash and Brute Attacks
    - Bitcoin Address Generation
 2. WIP
-   - WIP
+   - RSA Signature Verification
    - WIP
    - WIP
 3.

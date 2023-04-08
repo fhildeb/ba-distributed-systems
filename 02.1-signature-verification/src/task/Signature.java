@@ -1,8 +1,8 @@
-package aufgabe;
+package task;
 
 import java.math.BigInteger;
 
-public class Signatur {
+public class Signature {
 
 	public static void main(String[] args) {
 		BigInteger m_check;
@@ -35,3 +35,4 @@ public class Signatur {
 		}
 	}
 }
+
